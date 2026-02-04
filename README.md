@@ -11,3 +11,4 @@
 <p>The library found here has examples of different effects that can be acheived with the neopixel rings.</p>
 
 <p>The operation of the neo pixel rings is simillar to that of the neopixel strips. More details can be found here.</p>
+<link>https://github.com/kingston-hackSpace/rgb_led_displays</link>
